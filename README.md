@@ -14,7 +14,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dearcoder03/RentNDrive.git
+   git clone https://github.com/SimpleCyber/RideNDrive.git
    ```
 2. Open `index.html` in your browser.
 
